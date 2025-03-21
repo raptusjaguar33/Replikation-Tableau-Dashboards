@@ -1,0 +1,942 @@
+﻿Bachelor / Master;Campus;Dual;Fachbereich;Semester;Semester YoY T/F;Stand;Stand Semester Auswahl;Stand Semester Auswahl YoY (Kopie);Studiengang;Studiengang (Gruppe);Studienort;Winter / Sommer;Ausländische Studierende;Gesamtstudierende;Gesamtstudierende Semester Auswahl;Gesamtstudierende Semester Auswahl YoY;Studienanfängerinnen und Studienanfänger (1. FS);Studienanfängerinnen und Studienanfänger (1. HS);Studierende in der Regelstudienzeit;Weibliche Studierende
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;11;71;;;11;6;64;5
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;1;34;;;0;0;19;15
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;12;74;;;13;11;63;5
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;1;26;;;6;0;16;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;13;70;;;6;5;53;6
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;1;26;;;4;0;13;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;9;52;;;0;0;29;4
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;0;30;;;3;0;13;9
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;9;44;;;0;0;20;4
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;1;23;;;3;0;10;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;6;33;;;0;0;12;1
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;2;25;;;7;0;11;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;3;28;;28;0;0;6;1
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;2;28;;28;6;0;13;5
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;2;21;;;0;0;3;0
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Sommersemester;3;24;;;3;0;14;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;13;58;;;0;0;45;5
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;1;32;;;9;0;16;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;0;16;16;;0;0;2;0
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Angewandte Informatik;Angewandte Informatik;Birkenfeld;Wintersemester;2;24;24;;5;0;12;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Sommersemester;4;24;;;9;3;24;2
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Wintersemester;9;41;;;16;11;40;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Sommersemester;14;50;;;8;4;49;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Wintersemester;17;69;;69;22;15;69;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Sommersemester;16;69;;;6;5;68;9
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Wintersemester;3;14;;;14;10;14;0
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Wintersemester;17;76;76;;16;12;74;10
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Wintersemester;1;3;3;;2;1;3;1
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Sommersemester;0;1;;;0;0;1;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Wintersemester;0;2;;2;1;1;2;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Angewandte Informatik und Künstliche Intelligenz;Angewandte Informatik und Künstliche Intelligenz;Birkenfeld;Sommersemester;0;1;;;0;0;1;0
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Wintersemester;0;11;;;10;7;11;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Sommersemester;1;13;;;3;0;13;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Sommersemester;4;20;;;4;1;20;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Wintersemester;0;20;;;7;3;20;8
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Sommersemester;3;20;;;4;1;20;9
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Wintersemester;3;24;;24;7;2;21;11
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Sommersemester;2;21;;;2;1;17;9
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Wintersemester;3;17;;;7;5;17;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Angewandte Naturwissenschaften und Technik;Angewandte Naturwissenschaften und Technik;Birkenfeld;Wintersemester;0;18;18;;4;2;14;5
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Architektur;Architektur;Trier;Sommersemester;40;139;;;0;1;112;73
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Architektur;Architektur;Trier;Sommersemester;4;48;;;0;0;45;32
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Architektur;Architektur;Trier;Wintersemester;67;222;;;108;97;184;121
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Architektur;Architektur;Trier;Wintersemester;10;65;;;32;3;55;34
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Architektur;Architektur;Trier;Sommersemester;60;198;;;1;3;173;105
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Architektur;Architektur;Trier;Sommersemester;9;54;;;0;0;51;28
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Architektur;Architektur;Trier;Sommersemester;53;267;;;0;0;241;153
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Architektur;Architektur;Trier;Sommersemester;11;53;;;0;1;49;29
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Architektur;Architektur;Trier;Wintersemester;57;311;;;98;79;282;174
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Architektur;Architektur;Trier;Wintersemester;12;54;;;19;2;40;33
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Architektur;Architektur;Trier;Sommersemester;50;288;;;0;0;259;161
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Architektur;Architektur;Trier;Sommersemester;10;46;;;0;0;38;31
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Architektur;Architektur;Trier;Wintersemester;62;333;;333;67;58;258;182
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Architektur;Architektur;Trier;Wintersemester;12;41;;41;17;2;36;23
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Architektur;Architektur;Trier;Wintersemester;70;314;;;149;126;271;175
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Architektur;Architektur;Trier;Wintersemester;13;63;;;22;1;53;35
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Architektur;Architektur;Trier;Sommersemester;58;299;;;0;1;245;161
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Architektur;Architektur;Trier;Sommersemester;13;39;;;0;1;36;22
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Architektur;Architektur;Trier;Wintersemester;51;267;267;;43;38;168;139
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Architektur;Architektur;Trier;Wintersemester;10;46;46;;20;1;36;23
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;34;139;;;9;3;110;37
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;8;72;;;26;0;56;17
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;39;152;;;43;37;114;37
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;9;65;;;6;1;38;17
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;34;127;;;3;4;96;29
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;8;62;;;12;0;41;18
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;34;141;;;11;7;112;38
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;6;51;;;14;0;36;14
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;37;164;;;50;41;119;36
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;3;34;;;5;0;24;12
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;41;137;;;7;8;99;27
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;4;41;;;11;2;28;12
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;32;135;;135;38;28;102;34
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;4;30;;30;5;0;21;8
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;33;142;;;39;32;117;36
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;7;50;;;9;0;24;15
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;28;119;;;3;1;91;33
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;12;57;;;32;1;47;10
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;26;104;104;;21;18;75;31
+Bachelor;Hauptcampus;dual;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;2;31;31;;6;6;30;7
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;17;61;61;;11;2;46;10
+Bachelor;Hauptcampus;dual;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;0;6;;;0;0;6;1
+Bachelor;Hauptcampus;dual;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;0;13;;;7;7;13;2
+Bachelor;Hauptcampus;dual;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;0;12;;;0;0;12;2
+Bachelor;Hauptcampus;dual;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;0;14;;;0;0;14;3
+Bachelor;Hauptcampus;dual;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;1;18;;;5;5;18;3
+Bachelor;Hauptcampus;dual;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;1;16;;;0;0;15;3
+Bachelor;Hauptcampus;dual;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;2;29;;29;15;13;29;6
+Bachelor;Hauptcampus;dual;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Wintersemester;0;16;;;6;6;16;3
+Bachelor;Hauptcampus;dual;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Bauingenieurwesen;Bauingenieurwesen;Trier;Sommersemester;2;26;;;0;0;24;5
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Sommersemester;15;67;;;2;1;47;18
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Wintersemester;11;61;;;8;7;45;20
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Sommersemester;12;56;;;1;0;33;16
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Sommersemester;13;48;;;0;0;34;13
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Wintersemester;11;51;;;12;12;43;15
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Sommersemester;11;58;;;0;1;49;18
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Wintersemester;17;84;;84;16;14;75;27
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Wintersemester;13;55;;;10;8;43;17
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Sommersemester;11;64;;;2;1;51;21
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bauingenieurwesen mit Praxissemester;Bauingenieurwesen;Trier;Wintersemester;15;91;91;;19;19;82;29
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2020;Falsch;02.06.2020;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;43;442;;;50;24;358;197
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2020/2021;Falsch;30.11.2020;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;42;452;;;106;84;333;201
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2021;Falsch;02.06.2021;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;58;453;;;50;33;358;203
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2022;Falsch;31.05.2022;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;66;430;;;30;15;306;196
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2022/2023;Falsch;30.11.2022;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;68;435;;;78;67;269;192
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2023;Falsch;31.05.2023;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;68;397;;;30;17;258;177
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2023/2024;Wahr;30.11.2023;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;63;379;;379;68;50;238;163
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2021/2022;Falsch;30.11.2021;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;70;453;;;77;68;305;198
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2024;Falsch;31.05.2024;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;61;348;;;24;15;219;143
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;60;373;373;;88;71;232;143
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;4;72;72;;34;31;68;38
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2020;Falsch;02.06.2020;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;2;36;;;1;1;33;16
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2020/2021;Falsch;30.11.2020;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;1;34;;;10;9;30;18
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2021;Falsch;02.06.2021;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;0;29;;;0;0;26;16
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2022;Falsch;31.05.2022;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;0;31;;;0;0;31;23
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2022/2023;Falsch;30.11.2022;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;0;39;;;12;9;37;28
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2023;Falsch;31.05.2023;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;0;35;;;0;0;33;26
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2023/2024;Wahr;30.11.2023;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;0;57;;57;30;25;54;37
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2021/2022;Falsch;30.11.2021;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Wintersemester;0;36;;;17;11;32;24
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2024;Falsch;31.05.2024;;;Betriebswirtschaft;Betriebswirtschaft;Trier;Sommersemester;0;52;;;0;0;51;33
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;21;70;;;8;3;43;36
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;19;76;;;8;7;58;34
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;23;99;;;32;27;81;49
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;38;109;;;35;22;95;58
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;33;104;;;8;4;80;56
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;31;97;;;19;16;74;51
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;26;89;;;9;5;58;43
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;24;79;;79;9;7;49;38
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;34;113;;;24;20;92;56
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;21;72;72;;19;15;49;40
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;0;17;17;;3;3;15;14
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;0;16;;;0;0;16;14
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;0;24;;;0;0;23;14
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;1;28;;;4;4;24;18
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;1;22;;;0;0;22;14
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;1;22;;;0;0;20;16
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;0;18;;;3;3;15;13
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Sommersemester;0;15;;;0;0;15;11
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;0;20;;20;7;7;17;17
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bio- und Pharmatechnik;Bio- und Pharmatechnik;Birkenfeld;Wintersemester;1;23;;;4;3;20;17
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Birkenfeld;Sommersemester;8;24;;;4;1;24;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Birkenfeld;Sommersemester;4;15;;;3;2;15;2
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Birkenfeld;Wintersemester;5;17;;;5;3;16;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Birkenfeld;Sommersemester;4;13;;;5;0;13;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Birkenfeld;Wintersemester;4;18;;18;6;1;18;5
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Birkenfeld;Wintersemester;1;10;;;7;2;10;5
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Bio- und Prozess-Ingenieurwesen/Verfahrenstechnik;Birkenfeld;Wintersemester;6;22;22;;5;2;21;7
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;1;7;;;0;0;0;3
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;0;30;;;9;0;17;19
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;4;42;;;10;0;28;17
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;4;39;;;4;0;27;17
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;1;25;;;0;0;9;9
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;1;21;;;0;0;1;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;0;14;;;0;0;0;5
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;0;9;;9;0;0;0;3
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;3;34;;;0;0;16;15
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bio- und Prozess-Verfahrenstechnik;Bio- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;0;4;4;;0;0;0;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Bio-, Pharma- und Prozesstechnik;Bio-, Pharma- und Prozesstechnik;Birkenfeld;Sommersemester;2;15;;;1;0;13;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Bio-, Pharma- und Prozesstechnik;Bio-, Pharma- und Prozesstechnik;Birkenfeld;Sommersemester;0;2;;;0;0;2;0
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bio-, Pharma- und Prozesstechnik;Bio-, Pharma- und Prozesstechnik;Birkenfeld;Wintersemester;0;11;;;8;0;11;7
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Bio-, Pharma- und Prozesstechnik;Bio-, Pharma- und Prozesstechnik;Birkenfeld;Sommersemester;1;12;;;2;0;12;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bio-, Pharma- und Prozesstechnik;Bio-, Pharma- und Prozesstechnik;Birkenfeld;Wintersemester;2;14;;14;4;0;13;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bio-, Pharma- und Prozesstechnik;Bio-, Pharma- und Prozesstechnik;Birkenfeld;Wintersemester;2;5;;;5;0;5;1
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bio-, Pharma- und Prozesstechnik;Bio-, Pharma- und Prozesstechnik;Birkenfeld;Wintersemester;3;15;15;;3;0;8;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;1;11;;;0;0;0;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;2;36;;;0;0;21;11
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;2;22;;;0;0;8;5
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;2;20;;;0;0;6;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;2;16;;16;0;0;3;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;1;7;7;;0;0;0;1
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Birkenfeld;Sommersemester;1;1;;;0;0;0;1
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Birkenfeld;Sommersemester;1;1;;;0;0;0;1
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Birkenfeld;Wintersemester;1;1;;;0;0;0;1
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Birkenfeld;Sommersemester;1;1;;;0;0;0;1
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Birkenfeld;Wintersemester;0;0;;0;0;0;0;0
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Bio-, Umwelt- und Prozess-Verfahrenstechnik mit Praxissemester;Birkenfeld;Wintersemester;1;1;;;0;0;0;1
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Bio-,Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;7;64;;;8;1;52;12
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Bio-,Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;5;60;;;10;6;47;16
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Bio-,Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Sommersemester;7;60;;;6;2;46;19
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Bio-,Umwelt- und Prozess-Verfahrenstechnik;Bio-, Umwelt- und Prozess-Verfahrenstechnik;Birkenfeld;Wintersemester;3;43;;;0;0;32;12
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Biopharmazeutische Arzneimittelherstellung;Biopharmazeutische Arzneimittelherstellung;Birkenfeld;Sommersemester;1;8;;;0;0;8;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Biopharmazeutische Arzneimittelherstellung;Biopharmazeutische Arzneimittelherstellung;Birkenfeld;Wintersemester;1;6;;6;6;2;6;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Biopharmazeutische Arzneimittelherstellung;Biopharmazeutische Arzneimittelherstellung;Birkenfeld;Wintersemester;6;17;17;;10;5;17;12
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Biopharmazeutische Arzneimittelherstellung;Biopharmazeutische Arzneimittelherstellung;Birkenfeld;Wintersemester;0;10;10;;10;8;10;3
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Sommersemester;3;15;;;0;0;4;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Sommersemester;2;31;;;0;0;17;14
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Wintersemester;4;42;;;5;0;19;11
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Sommersemester;4;36;;;4;0;15;9
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Sommersemester;4;24;;;1;0;10;4
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Wintersemester;5;22;;;2;0;7;4
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Sommersemester;3;17;;;1;0;5;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Wintersemester;4;18;;18;2;0;5;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Wintersemester;4;34;;;3;0;13;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Business Administration and Engineering;Business Administration and Engineering;Birkenfeld;Wintersemester;3;15;15;;1;0;4;2
+Master;Hauptcampus; ;Wirtschaft;Sommersemester 2020;Falsch;02.06.2020;;;Business Management;Business Management;Trier;Sommersemester;2;21;;;0;0;18;8
+Master;Hauptcampus; ;Wirtschaft;Wintersemester 2020/2021;Falsch;30.11.2020;;;Business Management;Business Management;Trier;Wintersemester;4;39;;;23;1;31;17
+Master;Hauptcampus; ;Wirtschaft;Sommersemester 2021;Falsch;02.06.2021;;;Business Management;Business Management;Trier;Sommersemester;3;33;;;9;0;31;12
+Master;Hauptcampus; ;Wirtschaft;Sommersemester 2022;Falsch;31.05.2022;;;Business Management;Business Management;Trier;Sommersemester;4;37;;;9;0;34;16
+Master;Hauptcampus; ;Wirtschaft;Wintersemester 2022/2023;Falsch;30.11.2022;;;Business Management;Business Management;Trier;Wintersemester;7;53;;;29;1;44;22
+Master;Hauptcampus; ;Wirtschaft;Sommersemester 2023;Falsch;31.05.2023;;;Business Management;Business Management;Trier;Sommersemester;9;62;;;16;2;54;23
+Master;Hauptcampus; ;Wirtschaft;Wintersemester 2023/2024;Wahr;30.11.2023;;;Business Management;Business Management;Trier;Wintersemester;16;71;;71;22;5;62;30
+Master;Hauptcampus; ;Wirtschaft;Wintersemester 2021/2022;Falsch;30.11.2021;;;Business Management;Business Management;Trier;Wintersemester;5;38;;;19;0;34;17
+Master;Hauptcampus; ;Wirtschaft;Sommersemester 2024;Falsch;31.05.2024;;;Business Management;Business Management;Trier;Sommersemester;14;80;;;24;0;76;30
+Master;Hauptcampus; ;Wirtschaft;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Business Management;Business Management;Trier;Wintersemester;13;73;73;;18;0;58;33
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Design 3;Design;Trier;Sommersemester;6;50;;;15;0;35;31
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Design 3;Design;Trier;Wintersemester;7;49;;;7;2;32;31
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Design 3;Design;Trier;Sommersemester;8;52;;;10;0;31;34
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Design 3;Design;Trier;Sommersemester;8;46;;;6;1;31;28
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Design 3;Design;Trier;Wintersemester;6;44;;;6;0;26;24
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Design 3;Design;Trier;Sommersemester;4;29;;;4;0;15;13
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Design 3;Design;Trier;Wintersemester;5;35;;35;10;0;20;20
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Design 3;Design;Trier;Wintersemester;9;53;;;14;1;30;35
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Design 3;Design;Trier;Sommersemester;6;38;;;6;1;20;23
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Design 3;Design;Trier;Wintersemester;2;36;36;;6;0;20;19
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Design 4;Design;Trier;Sommersemester;4;47;;;8;0;28;21
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Design 4;Design;Trier;Wintersemester;6;52;;;11;1;31;27
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Design 4;Design;Trier;Sommersemester;7;56;;;7;0;35;30
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Design 4;Design;Trier;Sommersemester;8;59;;;5;0;32;29
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Design 4;Design;Trier;Wintersemester;6;58;;;4;0;25;26
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Design 4;Design;Trier;Sommersemester;4;49;;;3;0;20;20
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Design 4;Design;Trier;Wintersemester;5;47;;47;9;0;18;23
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Design 4;Design;Trier;Wintersemester;6;63;;;10;0;37;31
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Design 4;Design;Trier;Sommersemester;4;39;;;6;0;17;22
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Design 4;Design;Trier;Wintersemester;6;43;43;;9;1;27;25
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Sommersemester;3;35;;;4;0;19;1
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Sommersemester;2;66;;;0;0;51;33
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Wintersemester;4;43;;;8;0;21;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Sommersemester;3;43;;;5;0;21;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Sommersemester;4;41;;;4;0;20;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Wintersemester;4;40;;;7;1;17;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Sommersemester;3;44;;;8;0;24;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Wintersemester;3;40;;40;3;0;20;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Wintersemester;3;40;;;8;0;21;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Digitale Produktentwicklung - Maschinenbau;Digitale Produktentwicklung - Maschinenbau;Birkenfeld;Wintersemester;4;38;38;;6;0;18;2
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Sommersemester;8;17;;;0;0;15;12
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Wintersemester;11;20;;;2;3;17;14
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Sommersemester;11;17;;;0;1;16;13
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Sommersemester;11;18;;;0;2;14;15
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Wintersemester;8;15;;;4;4;10;12
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Sommersemester;9;16;;;0;5;14;13
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Wintersemester;6;15;;15;3;3;12;14
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Wintersemester;13;23;;;4;4;16;17
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Sommersemester;7;15;;;0;1;12;15
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Edelstein und Schmuck;Edelstein und Schmuck;Idar-Oberstein;Wintersemester;15;21;21;;10;10;17;20
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Elektromobilität;Elektromobilität;Trier;Sommersemester;3;20;;;6;3;19;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Elektromobilität;Elektromobilität;Trier;Wintersemester;4;21;;;5;5;20;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Elektromobilität;Elektromobilität;Trier;Sommersemester;3;20;;;4;2;18;0
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Elektromobilität;Elektromobilität;Trier;Sommersemester;4;23;;;8;3;20;0
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Elektromobilität;Elektromobilität;Trier;Wintersemester;7;25;;;4;3;21;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Elektromobilität;Elektromobilität;Trier;Sommersemester;6;21;;;1;0;14;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Elektromobilität;Elektromobilität;Trier;Wintersemester;7;18;;18;1;1;10;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Elektromobilität;Elektromobilität;Trier;Wintersemester;3;19;;;4;3;16;0
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Elektromobilität;Elektromobilität;Trier;Sommersemester;4;16;;;2;0;10;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Elektromobilität;Elektromobilität;Trier;Wintersemester;1;12;12;;2;1;6;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;19;82;;;0;4;52;6
+Master;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;4;60;;;13;0;31;10
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;20;90;;;23;19;65;11
+Master;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;6;53;;;7;0;23;7
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;13;73;;;0;0;45;8
+Master;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;7;52;;;9;0;27;9
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;16;75;;;0;1;47;11
+Master;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;6;47;;;16;0;30;8
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;15;87;;;20;17;63;14
+Master;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;10;50;;;7;1;28;9
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;17;86;;;1;0;51;13
+Master;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;9;46;;;6;0;27;13
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;20;89;;89;17;15;64;14
+Master;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;10;41;;41;9;0;19;12
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;16;86;;;23;20;62;12
+Master;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;3;39;;;5;0;18;10
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;22;73;;;0;3;50;13
+Master;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;9;45;;;16;0;27;10
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;15;72;72;;10;10;53;9
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;5;52;52;;19;15;49;2
+Master;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;12;44;44;;8;0;28;11
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;0;26;;;0;0;23;3
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;0;35;;;13;11;35;5
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;0;32;;;0;0;27;5
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;0;31;;;0;0;31;4
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;0;44;;;15;13;44;5
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;0;38;;;0;0;35;4
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;0;44;;44;11;10;43;3
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Elektrotechnik;Elektrotechnik;Trier;Wintersemester;0;39;;;11;10;37;5
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Elektrotechnik;Elektrotechnik;Trier;Sommersemester;0;36;;;0;0;31;2
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Energiemanagement;Energiemanagement;Trier;Sommersemester;4;42;;;3;0;13;10
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Energiemanagement;Energiemanagement;Trier;Wintersemester;5;31;;;2;1;10;7
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Energiemanagement;Energiemanagement;Trier;Sommersemester;4;32;;;9;0;13;7
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Energiemanagement;Energiemanagement;Trier;Sommersemester;4;39;;;12;0;25;6
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Energiemanagement;Energiemanagement;Trier;Wintersemester;20;63;;;16;0;50;11
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Energiemanagement;Energiemanagement;Trier;Sommersemester;5;58;;;15;1;38;12
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Energiemanagement;Energiemanagement;Trier;Wintersemester;5;62;;62;10;1;37;10
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Energiemanagement;Energiemanagement;Trier;Wintersemester;6;35;;;7;2;17;7
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Energiemanagement;Energiemanagement;Trier;Sommersemester;5;59;;;10;0;33;9
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Energiemanagement;Energiemanagement;Trier;Wintersemester;5;60;60;;10;0;28;8
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Sommersemester;4;54;;;4;3;31;11
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Wintersemester;7;57;;;10;9;38;11
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Sommersemester;5;47;;;1;0;25;7
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Sommersemester;7;39;;;1;2;22;7
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Wintersemester;8;49;;;14;14;33;8
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Sommersemester;8;46;;;2;3;23;7
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Wintersemester;7;51;;51;11;8;28;9
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Wintersemester;7;45;;;6;6;28;7
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Sommersemester;10;45;;;4;4;29;10
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Energietechnik - Regenerative und Effiziente Energiesysteme;Energietechnik - Regenerative und Effiziente Energiesysteme;Trier;Wintersemester;6;37;37;;4;4;30;7
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Ergotherapie;Ergotherapie;Trier;Wintersemester;4;77;77;;26;20;52;72
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Ergotherapie;Ergotherapie;Trier;Sommersemester;8;55;;;0;0;44;50
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Ergotherapie;Ergotherapie;Trier;Wintersemester;7;58;;;14;8;38;54
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Ergotherapie;Ergotherapie;Trier;Sommersemester;6;52;;;0;0;35;48
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Ergotherapie;Ergotherapie;Trier;Sommersemester;10;61;;;0;0;43;58
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Ergotherapie;Ergotherapie;Trier;Wintersemester;9;68;;;20;14;50;65
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Ergotherapie;Ergotherapie;Trier;Sommersemester;5;54;;;0;0;44;51
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Ergotherapie;Ergotherapie;Trier;Wintersemester;7;68;;68;16;11;46;62
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Ergotherapie;Ergotherapie;Trier;Wintersemester;10;64;;;21;17;43;60
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Ergotherapie;Ergotherapie;Trier;Sommersemester;4;58;;;0;0;43;55
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Sommersemester;20;111;;;4;2;58;19
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Sommersemester;24;147;;;22;7;118;39
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Wintersemester;25;152;;;31;23;124;34
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Sommersemester;21;151;;;14;7;118;35
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Sommersemester;22;140;;;9;4;95;36
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Wintersemester;14;138;;;23;12;89;32
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Sommersemester;16;117;;;10;5;72;25
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Wintersemester;20;121;;121;18;11;68;25
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Wintersemester;23;147;;;25;18;105;32
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Wintersemester;16;92;92;;12;9;47;15
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Sommersemester;0;4;;;2;0;3;1
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Erneuerbare Energien;Erneuerbare Energien;Birkenfeld;Wintersemester;0;10;10;;6;0;8;4
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Fahrzeugtechnik;Fahrzeugtechnik;Trier;Wintersemester;1;8;;8;8;7;8;0
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Fahrzeugtechnik;Fahrzeugtechnik;Trier;Sommersemester;1;10;;;2;2;10;0
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Fahrzeugtechnik;Fahrzeugtechnik;Trier;Wintersemester;9;27;27;;15;15;27;2
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Gemstone and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Sommersemester;19;24;;;4;2;13;19
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Gemstone and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Wintersemester;19;23;;;4;3;17;17
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Gemstone and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Sommersemester;14;19;;;3;2;13;12
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Gemstones and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Sommersemester;23;29;;;1;2;21;23
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Gemstones and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Wintersemester;23;28;;;3;3;19;21
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Gemstones and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Sommersemester;29;34;;;8;6;25;25
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Gemstones and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Wintersemester;26;31;;31;4;2;15;25
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Gemstones and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Wintersemester;22;27;;;10;8;22;19
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Gemstones and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Sommersemester;28;35;;;4;2;18;28
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Gemstones and Jewellery;Gemstones and Jewellery;Idar-Oberstein;Wintersemester;28;33;33;;5;5;19;27
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Informatik;Informatik;Trier;Sommersemester;64;271;;;22;17;164;28
+Master;Hauptcampus; ;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Informatik;Informatik;Trier;Sommersemester;7;89;;;11;0;40;12
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Informatik;Informatik;Trier;Wintersemester;75;294;;;52;43;173;32
+Master;Hauptcampus; ;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Sommersemester;14;184;;;21;3;79;30
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Informatik;Informatik;Trier;Sommersemester;75;282;;;16;15;168;36
+Master;Hauptcampus; ;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Informatik;Informatik;Trier;Wintersemester;7;92;;;13;0;42;11
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Informatik;Informatik;Trier;Sommersemester;81;273;;;9;15;155;39
+Master;Hauptcampus; ;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Wintersemester;17;178;;;25;6;84;21
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Informatik;Informatik;Trier;Wintersemester;81;266;;;30;23;131;35
+Master;Hauptcampus; ;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Informatik;Informatik;Trier;Sommersemester;5;86;;;8;0;31;9
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Informatik;Informatik;Trier;Sommersemester;91;268;;;18;21;139;38
+Master;Hauptcampus; ;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Sommersemester;18;210;;;42;12;89;28
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Informatik;Informatik;Trier;Wintersemester;82;270;;270;39;38;134;36
+Master;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Informatik;Informatik;Trier;Sommersemester;7;80;;;6;0;26;9
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Informatik;Informatik;Trier;Wintersemester;75;288;;;42;36;157;42
+Master;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Sommersemester;16;181;;;24;9;81;26
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Informatik;Informatik;Trier;Sommersemester;87;258;;;16;16;136;36
+Master;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Informatik;Informatik;Trier;Wintersemester;7;73;;;11;1;26;7
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Informatik;Informatik;Trier;Wintersemester;80;259;259;;40;36;127;41
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Informatik;Informatik;Trier;Wintersemester;0;8;8;;7;6;8;1
+Master;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Wintersemester;15;170;;;14;1;72;22
+Master;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Informatik;Informatik;Trier;Sommersemester;8;63;;;5;0;22;5
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Sommersemester;25;326;;;12;11;180;44
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Wintersemester;27;299;;;45;35;160;42
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Sommersemester;29;277;;;20;14;150;37
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Sommersemester;29;258;;;18;14;134;37
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Wintersemester;29;252;;;36;33;132;37
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Sommersemester;25;222;;;15;12;125;32
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Wintersemester;20;224;;224;41;35;120;40
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Wintersemester;27;275;;;45;37;136;38
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Sommersemester;18;196;;;8;5;113;39
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Informatik - Digitale Medien und Spiele;Informatik - Digitale Medien und Spiele;Trier;Wintersemester;13;178;178;;24;23;94;37
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Sommersemester;4;36;;;0;0;12;4
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Wintersemester;4;31;;;0;0;7;4
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Sommersemester;4;23;;;0;0;6;3
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Sommersemester;1;15;;;0;0;0;3
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Wintersemester;1;12;;;0;0;0;1
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Sommersemester;1;10;;;0;0;0;1
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Wintersemester;1;8;;8;0;0;0;1
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Wintersemester;2;19;;;0;0;1;3
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Sommersemester;0;5;;;0;0;0;0
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Informatik - Sichere und mobile Systeme;Informatik - Sichere und mobile Systeme;Trier;Wintersemester;0;1;1;;0;0;0;0
+Master;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Sommersemester;18;174;;;20;1;60;25
+Master;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Informatik;Informatik;Trier;Wintersemester;9;54;;54;5;0;19;5
+Master;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Wintersemester;16;175;;175;22;2;65;29
+Master;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Informatik;Informatik;Trier;Sommersemester;7;46;;;8;0;23;4
+Master;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Sommersemester;16;173;;;19;4;70;27
+Master;Hauptcampus; ;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Informatik;Informatik;Trier;Wintersemester;5;86;;;13;0;33;11
+Master;Hauptcampus; ;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Wintersemester;14;183;;;12;2;79;24
+Master;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Informatik (Fernstudium);Informatik (Fernstudium);Trier;Wintersemester;15;160;160;;13;1;58;24
+Master;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Informatik;Informatik;Trier;Wintersemester;9;48;48;;9;0;22;3
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Informationstechnik;Informationstechnik;Trier;Wintersemester;1;3;3;;3;2;3;0
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;13;94;;;13;8;88;84
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;3;14;;;4;0;10;9
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;16;102;;;18;9;95;90
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;1;12;;;6;0;10;6
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;18;103;;;9;7;96;91
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;0;9;;;4;0;9;7
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;19;131;;;21;19;119;115
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;0;5;;;3;0;5;5
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;19;137;;;23;18;121;120
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;0;10;;;7;0;10;6
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;14;129;;;11;9;118;113
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;1;14;;;7;0;14;10
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;14;137;;137;22;20;128;117
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;2;14;;14;6;0;13;13
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;18;118;;;29;22;111;104
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;0;6;;;2;0;6;6
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;13;138;;;18;11;133;118
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Innenarchitektur;Innenarchitektur;Trier;Sommersemester;3;17;;;6;0;12;16
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;15;150;150;;21;20;137;131
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Innenarchitektur;Innenarchitektur;Trier;Wintersemester;3;15;15;;4;1;9;15
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Sommersemester;0;30;;;1;0;16;11
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Sommersemester;5;47;;;4;0;22;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Wintersemester;1;38;;;9;0;17;18
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Sommersemester;1;37;;;0;0;16;17
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Sommersemester;0;31;;;0;0;21;14
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Wintersemester;0;35;;;7;2;23;15
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Sommersemester;0;29;;;0;0;22;12
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Wintersemester;0;35;;35;9;0;16;12
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Wintersemester;1;49;;;16;1;24;22
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Insolvenzrecht und Reorganisationsverfahren;Insolvenzrecht und Reorganisationsverfahren;Birkenfeld;Wintersemester;0;29;29;;6;0;14;12
+Master;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Sommersemester;0;2;;;2;0;2;0
+Master;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Sommersemester;1;8;;;1;0;8;3
+Master;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Wintersemester;2;14;;;5;0;12;5
+Master;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Sommersemester;61;74;;;61;52;68;11
+Master;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Wintersemester;223;239;;239;172;148;233;21
+Master;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Wintersemester;0;6;;;4;0;6;2
+Master;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Sommersemester;226;245;;;9;5;234;21
+Master;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Interdisziplinäre Ingenieurwissenschaften;Interdisziplinäre Ingenieurwissenschaften;Trier;Wintersemester;234;260;260;;22;7;198;17
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Intermedia Design;Intermedia Design;Trier;Sommersemester;7;118;;;17;7;85;42
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Intermedia Design;Intermedia Design;Trier;Wintersemester;8;124;;;15;13;88;47
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Intermedia Design;Intermedia Design;Trier;Sommersemester;4;120;;;15;9;84;44
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Intermedia Design;Intermedia Design;Trier;Sommersemester;2;126;;;16;6;86;48
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Intermedia Design;Intermedia Design;Trier;Wintersemester;9;128;;;13;9;90;54
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Intermedia Design;Intermedia Design;Trier;Sommersemester;10;145;;;19;12;94;64
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Intermedia Design;Intermedia Design;Trier;Wintersemester;8;138;;138;15;9;87;61
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Intermedia Design;Intermedia Design;Trier;Wintersemester;3;120;;;15;8;83;44
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Intermedia Design;Intermedia Design;Trier;Sommersemester;7;124;;;7;8;78;47
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Intermedia Design;Intermedia Design;Trier;Wintersemester;6;117;117;;17;11;82;47
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Sommersemester;4;55;;;8;5;45;27
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Wintersemester;6;60;;;9;8;47;30
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Sommersemester;6;59;;;9;5;51;33
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Sommersemester;6;52;;;5;2;44;28
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Wintersemester;3;47;;;4;2;40;21
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Sommersemester;2;41;;;2;2;32;17
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Wintersemester;1;44;;44;8;3;36;18
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Wintersemester;6;55;;;3;3;48;32
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Sommersemester;1;46;;;4;1;37;21
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Intermedia Design mit Praxissemester;Intermedia Design;Trier;Wintersemester;2;43;43;;4;3;31;21
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2020;Falsch;02.06.2020;;;International Business;International Business;Trier;Sommersemester;42;164;;;0;0;129;97
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2020/2021;Falsch;30.11.2020;;;International Business;International Business;Trier;Wintersemester;31;173;;;50;47;121;111
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2021;Falsch;02.06.2021;;;International Business;International Business;Trier;Sommersemester;28;136;;;1;7;98;83
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2022;Falsch;31.05.2022;;;International Business;International Business;Trier;Sommersemester;58;142;;;0;7;120;81
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2022/2023;Falsch;30.11.2022;;;International Business;International Business;Trier;Wintersemester;91;184;;;63;54;154;101
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2023;Falsch;31.05.2023;;;International Business;International Business;Trier;Sommersemester;78;165;;;1;10;140;93
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2023/2024;Wahr;30.11.2023;;;International Business;International Business;Trier;Wintersemester;152;243;;243;93;92;221;120
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2021/2022;Falsch;30.11.2021;;;International Business;International Business;Trier;Wintersemester;65;164;;;57;58;127;99
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2024;Falsch;31.05.2024;;;International Business;International Business;Trier;Sommersemester;144;224;;;0;11;209;114
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;International Business;International Business;Trier;Wintersemester;164;265;265;;56;63;242;142
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;International Material Flow Management;International Material Flow Management;Birkenfeld;Sommersemester;101;105;;;1;31;84;47
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;International Material Flow Management;International Material Flow Management;Birkenfeld;Wintersemester;77;82;;82;13;10;58;31
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;International Material Flow Management;International Material Flow Management;Birkenfeld;Wintersemester;71;76;76;;11;11;56;36
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Sommersemester;18;19;;;0;0;4;7
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Sommersemester;21;23;;;0;1;8;14
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Wintersemester;12;14;;;4;2;5;9
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Sommersemester;10;12;;;0;0;2;9
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Sommersemester;13;14;;;0;0;6;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Wintersemester;20;21;;;8;8;13;11
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Sommersemester;16;17;;;0;0;11;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Wintersemester;19;20;;20;4;4;9;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Wintersemester;14;16;;;5;5;7;9
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;International Material Flow Management (IW);International Material Flow Management;Birkenfeld;Wintersemester;16;16;16;;0;5;5;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;International Material Flow Management (WW);International Material Flow Management;Birkenfeld;Sommersemester;0;21;;;5;0;14;3
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;International Material Flow Management (WW);International Material Flow Management;Birkenfeld;Wintersemester;26;29;;;5;5;14;15
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;International Material Flow Management (WW);International Material Flow Management;Birkenfeld;Sommersemester;27;30;;;3;1;17;18
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;International Material Flow Management (WW);International Material Flow Management;Birkenfeld;Sommersemester;68;72;;;44;42;55;31
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;International Material Flow Management (WW);International Material Flow Management;Birkenfeld;Wintersemester;76;82;;;13;10;64;38
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;International Material Flow Management (WW);International Material Flow Management;Birkenfeld;Sommersemester;98;105;;;32;32;91;39
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;International Material Flow Management (WW);International Material Flow Management;Birkenfeld;Wintersemester;29;32;;;7;6;17;18
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Sommersemester;3;17;;;2;0;16;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Wintersemester;2;18;;;5;3;17;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Sommersemester;2;19;;;2;0;17;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Sommersemester;2;17;;;1;1;11;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Wintersemester;2;18;;;4;2;12;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Sommersemester;1;17;;;1;0;11;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Wintersemester;0;17;;17;3;3;12;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Wintersemester;2;18;;;1;0;16;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Sommersemester;0;12;;;0;0;7;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Internet of Things - Digitale Automation;Internet of Things - Digitale Automation;Trier;Wintersemester;1;9;9;;0;0;6;1
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Kommunikationsdesign 2;Kommunikationsdesign;Trier;Sommersemester;1;1;;;0;0;0;1
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Sommersemester;17;35;;;0;0;24;23
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Wintersemester;9;19;;;0;0;7;8
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Sommersemester;8;17;;;0;0;7;7
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Sommersemester;4;8;;;0;0;1;5
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Wintersemester;2;4;;;0;0;0;2
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Sommersemester;1;3;;;0;0;0;2
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Wintersemester;1;1;;1;0;0;0;1
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Wintersemester;9;17;;;0;0;3;9
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Sommersemester;1;1;;;0;0;0;1
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Kommunikationsdesign 6;Kommunikationsdesign;Trier;Wintersemester;1;1;1;;0;0;0;1
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Sommersemester;23;156;;;18;14;129;115
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Wintersemester;23;169;;;27;21;146;128
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Sommersemester;25;170;;;22;17;150;129
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Sommersemester;28;171;;;21;18;146;131
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Wintersemester;32;172;;;18;19;146;139
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Sommersemester;31;170;;;16;12;144;138
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Wintersemester;33;173;;173;23;24;148;142
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Wintersemester;20;160;;;23;18;139;119
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Sommersemester;45;184;;;22;24;158;160
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Kommunikationsdesign 7;Kommunikationsdesign;Trier;Wintersemester;41;181;181;;22;22;154;157
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Kommunikationsdesign 8;Kommunikationsdesign;Trier;Sommersemester;0;1;;;0;0;1;0
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Kommunikationspsychologie und Nachhaltigkeit;Kommunikationspsychologie und Nachhaltigkeit;Birkenfeld;Wintersemester;2;47;47;;47;30;47;38
+Master;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Künstliche Intelligenz und Data Science;Künstliche Intelligenz und Data Science;Trier;Sommersemester;0;8;;;6;0;8;1
+Master;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Künstliche Intelligenz und Data Science;Künstliche Intelligenz und Data Science;Trier;Wintersemester;0;13;;;3;0;11;3
+Master;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Künstliche Intelligenz und Data Science;Künstliche Intelligenz und Data Science;Trier;Sommersemester;0;18;;;5;0;16;6
+Master;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Künstliche Intelligenz und Data Science;Künstliche Intelligenz und Data Science;Trier;Wintersemester;0;19;;19;0;0;14;5
+Master;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Künstliche Intelligenz und Data Science;Künstliche Intelligenz und Data Science;Trier;Sommersemester;1;24;;;5;0;14;6
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Künstliche Intelligenz und Data Science;Künstliche Intelligenz und Data Science;Trier;Wintersemester;7;16;16;;14;11;15;2
+Master;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Künstliche Intelligenz und Data Science;Künstliche Intelligenz und Data Science;Trier;Wintersemester;3;31;31;;8;0;16;7
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Lebensmitteltechnik;Lebensmitteltechnik;Trier;Sommersemester;1;25;;;0;0;1;9
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Lebensmitteltechnik;Lebensmitteltechnik;Trier;Wintersemester;1;15;;;0;0;0;3
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Lebensmitteltechnik;Lebensmitteltechnik;Trier;Sommersemester;0;10;;;0;0;0;2
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Lebensmitteltechnik;Lebensmitteltechnik;Trier;Sommersemester;0;2;;;0;0;0;0
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Lebensmitteltechnik;Lebensmitteltechnik;Trier;Wintersemester;0;6;;;0;0;0;0
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Sommersemester;12;115;;;0;0;111;69
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Wintersemester;16;142;;;35;24;137;81
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Sommersemester;14;123;;;2;0;102;71
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Sommersemester;14;111;;;0;0;75;64
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Wintersemester;15;110;;;19;13;90;61
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Sommersemester;16;89;;;1;2;66;47
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Wintersemester;15;96;;96;24;18;84;51
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Wintersemester;17;137;;;29;25;126;75
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Sommersemester;17;83;;;0;2;62;43
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Lebensmitteltechnologie;Lebensmitteltechnologie;Trier;Wintersemester;13;90;90;;23;17;74;42
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Sommersemester;1;59;;;25;0;49;42
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Wintersemester;2;55;;;5;1;45;38
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Sommersemester;3;60;;;14;0;44;41
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Sommersemester;3;48;;;17;0;36;28
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Wintersemester;4;50;;;12;1;36;28
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Sommersemester;6;50;;;13;2;40;27
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Wintersemester;8;44;;44;7;2;30;27
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Wintersemester;3;56;;;11;0;29;39
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Sommersemester;8;43;;;11;1;30;29
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Lebensmittelwirtschaft;Lebensmittelwirtschaft;Trier;Wintersemester;7;33;33;;6;0;23;22
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Logopädie;Logopädie;Trier;Wintersemester;2;53;53;;14;8;36;47
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Logopädie;Logopädie;Trier;Sommersemester;1;50;;;0;0;45;46
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Logopädie;Logopädie;Trier;Wintersemester;2;62;;;20;17;45;58
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Logopädie;Logopädie;Trier;Sommersemester;1;56;;;0;0;43;52
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Logopädie;Logopädie;Trier;Sommersemester;3;60;;;0;0;54;55
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Logopädie;Logopädie;Trier;Wintersemester;2;64;;;16;8;50;58
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Logopädie;Logopädie;Trier;Sommersemester;2;54;;;0;0;48;49
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Logopädie;Logopädie;Trier;Wintersemester;1;57;;57;11;8;39;52
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Logopädie;Logopädie;Trier;Wintersemester;3;63;;;17;11;55;58
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Logopädie;Logopädie;Trier;Sommersemester;1;48;;;0;0;37;43
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;19;177;;;1;1;106;9
+Master;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;2;95;;;7;0;59;8
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;22;181;;;37;34;98;12
+Master;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;6;104;;;21;2;60;11
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;23;157;;;1;1;88;13
+Master;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;6;87;;;2;0;49;9
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;26;161;;;6;6;112;11
+Master;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;7;70;;;6;1;37;10
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;18;155;;;30;29;97;10
+Master;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;6;59;;;9;0;29;9
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;21;141;;;3;6;96;11
+Master;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;6;48;;;0;0;28;7
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;15;134;;134;22;19;83;9
+Master;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;7;51;;51;12;2;26;10
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;23;169;;;45;43;109;12
+Master;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;8;85;;;18;1;41;11
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;21;125;;;6;10;84;6
+Master;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;6;39;;;1;0;22;6
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Maschinenbau;Maschinenbau;Trier;Wintersemester;12;105;105;;23;19;64;6
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Maschinenbau;Maschinenbau;Trier;Wintersemester;0;33;33;;9;9;29;2
+Master;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Maschinenbau;Maschinenbau;Trier;Wintersemester;6;43;43;;12;0;24;8
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Sommersemester;14;81;;;12;10;56;10
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Sommersemester;14;130;;;24;20;107;29
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Wintersemester;13;116;;;20;18;89;18
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Sommersemester;21;117;;;22;13;97;17
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Sommersemester;27;109;;;11;7;77;10
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Wintersemester;31;107;;;17;13;64;8
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Sommersemester;21;85;;;8;2;56;5
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Wintersemester;17;84;;84;24;8;56;7
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Wintersemester;24;113;;;19;15;82;12
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Maschinenbau - Produktentwicklung und Technische Planung;Maschinenbau - Produktentwicklung und Technische Planung;Birkenfeld;Wintersemester;10;65;65;;9;4;41;11
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;0;16;;;0;0;16;3
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;0;24;;;9;8;20;4
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;0;20;;;0;0;20;3
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;0;23;;;0;0;22;3
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;0;35;;;14;13;30;4
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;0;31;;;0;0;30;4
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;0;36;;36;9;8;29;3
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Maschinenbau;Maschinenbau;Trier;Wintersemester;0;26;;;8;8;22;3
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Maschinenbau;Maschinenbau;Trier;Sommersemester;0;28;;;0;0;27;2
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;13;135;;;11;3;75;41
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;0;23;;;3;0;9;11
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;24;176;;;19;11;132;51
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;2;45;;;7;0;24;18
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;22;194;;;44;37;155;54
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;0;30;;;9;0;20;12
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;21;189;;;10;4;142;50
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;0;30;;;3;0;11;14
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;19;174;;;9;4;125;45
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;0;21;;;2;0;9;9
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;22;185;;;38;26;130;51
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;0;26;;;3;0;10;14
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;19;158;;;4;2;97;49
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;0;23;;;3;0;7;12
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;16;144;;144;17;14;87;44
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;0;21;;21;3;0;7;9
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;19;192;;;39;28;151;55
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;1;31;;;6;0;15;13
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;11;121;121;;17;11;73;38
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;0;2;2;;1;0;2;0
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;0;19;19;;3;0;9;9
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Medieninformatik;Medieninformatik;Birkenfeld;Sommersemester;1;2;;;2;0;2;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Medieninformatik;Medieninformatik;Birkenfeld;Wintersemester;1;1;;1;1;0;1;1
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Medizininformatik;Medizininformatik;Trier;Sommersemester;6;39;;;3;1;21;18
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Medizininformatik;Medizininformatik;Trier;Wintersemester;8;47;;;11;10;30;26
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Medizininformatik;Medizininformatik;Trier;Sommersemester;8;42;;;3;3;23;24
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Medizininformatik;Medizininformatik;Trier;Sommersemester;9;40;;;3;3;23;19
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Medizininformatik;Medizininformatik;Trier;Wintersemester;7;39;;;5;2;20;19
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Medizininformatik;Medizininformatik;Trier;Sommersemester;8;38;;;1;1;18;19
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Medizininformatik;Medizininformatik;Trier;Wintersemester;11;41;;41;6;4;20;20
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Medizininformatik;Medizininformatik;Trier;Wintersemester;7;38;;;7;7;21;19
+Bachelor;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Medizininformatik;Medizininformatik;Trier;Sommersemester;10;37;;;3;3;16;20
+Bachelor;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Medizininformatik;Medizininformatik;Trier;Wintersemester;14;39;39;;8;6;19;22
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Medizintechnik;Medizintechnik;Trier;Sommersemester;84;119;;;20;17;94;57
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Medizintechnik;Medizintechnik;Trier;Wintersemester;89;129;;;30;23;105;63
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Medizintechnik;Medizintechnik;Trier;Sommersemester;88;126;;;16;12;100;59
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Medizintechnik;Medizintechnik;Trier;Sommersemester;92;125;;;12;10;97;57
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Medizintechnik;Medizintechnik;Trier;Wintersemester;96;138;;;23;20;103;61
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Medizintechnik;Medizintechnik;Trier;Sommersemester;95;137;;;9;8;94;59
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Medizintechnik;Medizintechnik;Trier;Wintersemester;89;128;;128;14;11;86;54
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Medizintechnik;Medizintechnik;Trier;Wintersemester;92;132;;;23;18;103;61
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Medizintechnik;Medizintechnik;Trier;Sommersemester;86;121;;;9;7;73;50
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Medizintechnik;Medizintechnik;Trier;Wintersemester;81;118;118;;13;11;72;46
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Medizintechnik mit Orientierungssemester;Medizintechnik;Trier;Sommersemester;0;12;;;12;12;12;7
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Medizintechnik mit Orientierungssemester;Medizintechnik;Trier;Sommersemester;0;10;;;10;10;10;5
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Medizintechnik mit Orientierungssemester;Medizintechnik;Trier;Sommersemester;0;5;;;5;5;5;1
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Modedesign;Modedesign;Trier;Sommersemester;23;140;;;11;10;115;118
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2020;Falsch;02.06.2020;;;Modedesign;Modedesign;Trier;Sommersemester;13;72;;;11;0;37;68
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Modedesign;Modedesign;Trier;Wintersemester;21;139;;;22;18;118;114
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2020/2021;Falsch;30.11.2020;;;Modedesign;Modedesign;Trier;Wintersemester;14;78;;;11;0;37;72
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Modedesign;Modedesign;Trier;Sommersemester;20;149;;;19;17;115;124
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2021;Falsch;02.06.2021;;;Modedesign;Modedesign;Trier;Sommersemester;15;76;;;5;1;25;70
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Modedesign;Modedesign;Trier;Sommersemester;20;152;;;9;8;109;124
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2022;Falsch;31.05.2022;;;Modedesign;Modedesign;Trier;Sommersemester;11;67;;;8;0;23;61
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Modedesign;Modedesign;Trier;Wintersemester;19;152;;;18;14;112;122
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2022/2023;Falsch;30.11.2022;;;Modedesign;Modedesign;Trier;Wintersemester;4;58;;;4;0;22;53
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Modedesign;Modedesign;Trier;Sommersemester;22;147;;;20;19;116;120
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2023;Falsch;31.05.2023;;;Modedesign;Modedesign;Trier;Sommersemester;4;51;;;6;0;18;47
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Modedesign;Modedesign;Trier;Wintersemester;22;158;;158;28;18;131;123
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2023/2024;Wahr;30.11.2023;;;Modedesign;Modedesign;Trier;Wintersemester;4;47;;47;7;1;17;42
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Modedesign;Modedesign;Trier;Wintersemester;18;154;;;25;18;116;127
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2021/2022;Falsch;30.11.2021;;;Modedesign;Modedesign;Trier;Wintersemester;15;74;;;10;0;26;68
+Bachelor;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Modedesign;Modedesign;Trier;Sommersemester;21;157;;;13;11;123;121
+Master;Campus Gestaltung; ;Gestaltung;Sommersemester 2024;Falsch;31.05.2024;;;Modedesign;Modedesign;Trier;Sommersemester;4;46;;;9;0;21;41
+Bachelor;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Modedesign;Modedesign;Trier;Wintersemester;30;177;177;;29;31;144;142
+Master;Campus Gestaltung; ;Gestaltung;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Modedesign;Modedesign;Trier;Wintersemester;4;47;47;;10;0;25;40
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Nachhaltige Betriebswirtschaft;Nachhaltige Betriebswirtschaft;Birkenfeld;Sommersemester;14;25;;;25;12;25;10
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Nachhaltige Betriebswirtschaft;Nachhaltige Betriebswirtschaft;Birkenfeld;Sommersemester;1;15;;;14;0;14;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Nachhaltige Betriebswirtschaft;Nachhaltige Betriebswirtschaft;Birkenfeld;Wintersemester;18;40;40;;30;19;39;22
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Nachhaltige Betriebswirtschaft;Nachhaltige Betriebswirtschaft;Birkenfeld;Wintersemester;0;5;5;;5;5;5;4
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Nachhaltige Betriebswirtschaft;Nachhaltige Betriebswirtschaft;Birkenfeld;Wintersemester;3;19;19;;8;0;17;13
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Wintersemester;0;11;11;;0;0;7;5
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Sommersemester 2024;Falsch;31.05.2024;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Sommersemester;0;13;;;0;0;12;7
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Sommersemester 2020;Falsch;02.06.2020;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Sommersemester;0;12;;;0;0;12;5
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Wintersemester 2020/2021;Falsch;30.11.2020;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Wintersemester;0;15;;;4;2;13;7
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Sommersemester 2021;Falsch;02.06.2021;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Sommersemester;0;14;;;0;0;13;6
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Sommersemester 2022;Falsch;31.05.2022;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Sommersemester;0;13;;;0;0;13;6
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Wintersemester 2022/2023;Falsch;30.11.2022;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Wintersemester;0;14;;;4;4;12;6
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Sommersemester 2023;Falsch;31.05.2023;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Sommersemester;0;12;;;0;0;10;5
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Wintersemester 2023/2024;Wahr;30.11.2023;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Wintersemester;0;16;;16;6;5;13;9
+Bachelor;Umwelt-Campus Birkenfeld;dual;Andere;Wintersemester 2021/2022;Falsch;30.11.2021;;;Nachhaltige Ressourcenwirtschaft;Nachhaltige Ressourcenwirtschaft;Birkenfeld;Wintersemester;0;18;;;5;4;13;8
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Sommersemester;1;53;;;13;1;23;7
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Wintersemester;1;52;;;5;0;24;8
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Sommersemester;2;63;;;22;0;37;10
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Sommersemester;2;57;;;13;0;35;9
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Wintersemester;2;48;;;0;0;29;6
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Sommersemester;4;58;;;20;3;31;7
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Wintersemester;4;53;;53;0;0;27;7
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Wintersemester;2;60;;;8;0;39;9
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Sommersemester;1;65;;;25;0;34;8
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Netztechnik und Netzbetrieb;Netztechnik und Netzbetrieb;Trier;Wintersemester;1;71;71;;15;0;47;8
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Sommersemester;4;41;;;5;1;41;23
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Sommersemester;3;27;;;9;2;27;13
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Wintersemester;2;36;;;15;10;36;17
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Sommersemester;1;27;;;1;0;27;14
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Wintersemester;2;42;;42;17;6;42;23
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Wintersemester;2;18;;;18;13;18;9
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Wintersemester;6;59;59;;20;5;52;32
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Wintersemester;1;6;6;;1;0;2;2
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Sommersemester;1;7;;;0;0;7;3
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Sommersemester;1;8;;;0;0;8;3
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Nonprofit und NGO Management;Nonprofit und NGO Management;Birkenfeld;Wintersemester;1;7;;7;1;1;7;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Sommersemester;1;8;;;0;0;0;2
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Sommersemester;4;34;;;1;0;32;8
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Wintersemester;4;29;;;0;0;23;7
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Sommersemester;4;25;;;0;0;14;5
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Sommersemester;3;20;;;0;0;5;4
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Wintersemester;3;16;;;0;0;0;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Sommersemester;3;14;;;0;0;0;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Wintersemester;0;8;;8;0;0;0;3
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Wintersemester;3;23;;;0;0;9;6
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Physikingenieurwesen;Physikingenieurwesen;Birkenfeld;Wintersemester;1;2;2;;0;0;0;0
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Physiotherapie;Physiotherapie;Trier;Wintersemester;16;148;148;;51;36;111;92
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Wintersemester;0;7;7;;0;0;0;2
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Sommersemester;18;148;;;0;0;117;95
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Wintersemester;15;125;;;0;0;81;81
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Sommersemester;12;101;;;0;0;78;64
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Sommersemester;8;72;;;0;0;37;45
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Wintersemester;3;54;;;0;0;0;33
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Sommersemester;3;45;;;0;0;0;27
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Wintersemester;0;19;;19;0;0;0;10
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Wintersemester;10;90;;;0;0;39;54
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Physiotherapie - Technik und Therapie;Physiotherapie - Technik und Therapie;Trier;Sommersemester;0;9;;;0;0;0;4
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Physiotherapie;Physiotherapie;Trier;Wintersemester;6;78;;;78;59;78;49
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Physiotherapie;Physiotherapie;Trier;Sommersemester;6;68;;;0;0;68;43
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Physiotherapie;Physiotherapie;Trier;Sommersemester;13;112;;;0;0;111;73
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Physiotherapie;Physiotherapie;Trier;Wintersemester;20;154;;;62;48;153;102
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Physiotherapie;Physiotherapie;Trier;Sommersemester;20;137;;;0;0;136;90
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Physiotherapie;Physiotherapie;Trier;Wintersemester;18;168;;168;48;36;130;110
+Bachelor;Hauptcampus;dual;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Physiotherapie;Physiotherapie;Trier;Wintersemester;13;121;;;62;48;121;77
+Bachelor;Hauptcampus;dual;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Physiotherapie;Physiotherapie;Trier;Sommersemester;15;132;;;0;0;112;86
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Wintersemester;0;11;11;;1;0;9;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Sommersemester;0;11;;;0;0;11;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Sommersemester;0;11;;;0;0;10;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Wintersemester;0;14;;;3;3;11;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Sommersemester;0;13;;;0;0;11;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Sommersemester;0;15;;;0;0;13;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Wintersemester;0;18;;;5;5;13;1
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Sommersemester;0;13;;;0;0;12;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Wintersemester;0;13;;13;4;4;12;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Produktionstechnologie;Produktionstechnologie;Birkenfeld;Wintersemester;0;17;;;5;5;13;0
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Sommersemester;0;16;;;0;0;10;5
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Wintersemester;0;15;;;3;2;9;4
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Sommersemester;0;10;;;0;0;7;3
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Sommersemester;0;14;;;0;0;10;3
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Wintersemester;0;13;;;4;2;9;1
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Sommersemester;0;10;;;0;0;7;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Wintersemester;0;5;;5;0;0;3;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Wintersemester;0;15;;;5;3;11;4
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Sommersemester;0;6;;;0;0;3;1
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Sicherheitsingenieurwesen;Sicherheitsingenieurwesen;Trier;Wintersemester;1;6;6;;0;0;0;2
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Sommersemester;3;19;;;0;0;19;8
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Wintersemester;1;28;;;14;13;28;13
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Sommersemester;1;28;;;0;0;22;12
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Sommersemester;1;30;;;0;0;25;13
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Wintersemester;0;28;;;5;3;26;14
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Sommersemester;0;27;;;0;0;23;13
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Wintersemester;0;28;;28;4;3;25;14
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Wintersemester;1;32;;;10;8;26;14
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Sommersemester;1;26;;;1;0;12;13
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Sport- und Rehatechnik;Sport- und Rehatechnik;Trier;Wintersemester;1;27;27;;7;3;17;14
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Sommersemester;149;159;;;13;13;121;54
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Sommersemester;87;90;;;0;0;88;21
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Wintersemester;155;161;;;76;74;145;40
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Sommersemester;121;127;;;0;0;117;36
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Sommersemester;124;131;;;1;0;108;43
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Wintersemester;162;176;;;54;37;132;57
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Sommersemester;134;144;;;2;0;103;47
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Wintersemester;178;191;;191;77;63;139;54
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Wintersemester;151;157;;;48;45;132;46
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Sustainable Business and Technology;Sustainable Business and Technology;Birkenfeld;Wintersemester;215;228;228;;94;64;180;66
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Sustainable Business and Technology (Double Degree);Sustainable Business and Technology;Birkenfeld;Sommersemester;19;19;;;0;0;19;10
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Sustainable Business and Technology (Double Degree);Sustainable Business and Technology;Birkenfeld;Wintersemester;20;20;;20;0;20;20;10
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Sustainable Business and Technology (Double Degree);Sustainable Business and Technology;Birkenfeld;Wintersemester;27;27;27;;0;15;15;11
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Sommersemester;2;28;;;0;0;6;16
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Sommersemester;5;43;;;3;0;21;12
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Wintersemester;2;39;;;10;0;22;16
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Sommersemester;2;38;;;0;0;19;18
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Sommersemester;2;46;;;0;0;26;23
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Wintersemester;2;39;;;0;0;16;20
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Sommersemester;1;28;;;0;0;16;14
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Wintersemester;2;30;;30;6;0;6;17
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Wintersemester;2;50;;;17;2;26;25
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Sustainable Change - Vom Wissen zum Handeln;Sustainable Change - Vom Wissen zum Handeln;Birkenfeld;Wintersemester;2;31;31;;9;1;15;17
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Sommersemester;1;71;;;3;1;48;3
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Wintersemester;1;79;;;14;10;59;2
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Sommersemester;1;75;;;0;0;41;2
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2022;Falsch;31.05.2022;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Sommersemester;1;68;;;2;0;35;2
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2022/2023;Falsch;30.11.2022;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Wintersemester;1;72;;;14;12;47;1
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2023;Falsch;31.05.2023;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Sommersemester;1;64;;;0;0;39;1
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2023/2024;Wahr;30.11.2023;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Wintersemester;0;57;;57;9;5;40;3
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2021/2022;Falsch;30.11.2021;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Wintersemester;1;74;;;9;7;49;2
+Bachelor;Hauptcampus; ;Bauen + Leben;Sommersemester 2024;Falsch;31.05.2024;;;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Sommersemester;0;50;;;1;0;27;3
+Bachelor;Hauptcampus; ;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Wintersemester;0;39;39;;5;5;29;5
+Bachelor;Hauptcampus;dual;Bauen + Leben;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Technische Gebäudeausrüstung und Versorgungstechnik;Technische Gebäudeausrüstung und Versorgungstechnik;Trier;Wintersemester;0;5;5;;4;4;5;0
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2020;Falsch;02.06.2020;;;Technisches Gebäudemanagement und Energiemanagement;Technisches Gebäudemanagement und Energiemanagement;Trier;Sommersemester;0;3;;;0;0;0;1
+Master;Hauptcampus; ;Bauen + Leben;Wintersemester 2020/2021;Falsch;30.11.2020;;;Technisches Gebäudemanagement und Energiemanagement;Technisches Gebäudemanagement und Energiemanagement;Trier;Wintersemester;0;2;;;0;0;0;0
+Master;Hauptcampus; ;Bauen + Leben;Sommersemester 2021;Falsch;02.06.2021;;;Technisches Gebäudemanagement und Energiemanagement;Technisches Gebäudemanagement und Energiemanagement;Trier;Sommersemester;0;2;;;0;0;0;0
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;17;144;;;0;0;71;68
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;4;45;;;0;0;23;24
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;19;283;;;25;6;204;129
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;0;24;;;1;0;16;8
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;43;286;;;75;57;207;140
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;3;112;;;54;0;86;57
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;32;268;;;31;18;196;137
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;4;92;;;1;1;77;42
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;42;239;;;18;14;163;119
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;2;95;;;0;0;79;49
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;39;229;;;45;30;131;120
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;3;98;;;18;1;50;52
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;36;209;;;29;17;130;103
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Sommersemester;3;83;;;5;0;53;47
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;34;183;;183;26;18;100;87
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;5;73;;73;9;0;27;42
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;36;256;;;53;40;181;132
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;3;123;;;41;1;84;60
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;8;107;107;;0;0;46;52
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Umwelt- und Betriebswirtschaft;Umwelt- und Betriebswirtschaft;Birkenfeld;Wintersemester;3;32;32;;0;0;10;19
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;10;49;;;6;4;41;12
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;7;74;;;4;0;65;17
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;4;71;;;13;11;61;18
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;27;89;;;29;19;74;23
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;35;87;;;9;7;70;23
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;30;86;;;20;18;70;28
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;16;68;;;7;4;53;22
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;8;54;;54;8;6;43;15
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;31;93;;;21;15;77;25
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;7;47;47;;5;3;38;12
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;0;1;1;;1;1;1;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;0;1;;;0;0;1;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;0;2;;;1;1;2;1
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;0;2;;;0;0;2;1
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Sommersemester;0;2;;;1;0;1;0
+Bachelor;Umwelt-Campus Birkenfeld;dual;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Umwelt- und Wirtschaftsinformatik;Umwelt- und Wirtschaftsinformatik;Birkenfeld;Wintersemester;0;1;;1;0;0;1;0
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Sommersemester;5;16;;;0;0;8;4
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Sommersemester;8;38;;;2;0;24;10
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Wintersemester;8;43;;;10;0;27;11
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Sommersemester;7;34;;;3;0;19;8
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Sommersemester;8;33;;;3;0;14;7
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Wintersemester;9;31;;;4;0;10;9
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Sommersemester;10;31;;;5;0;14;9
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Wintersemester;6;30;;30;6;0;13;6
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Wintersemester;7;32;;;4;0;13;5
+Master;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Umweltorientierte Energietechnik;Umweltorientierte Energietechnik;Birkenfeld;Wintersemester;4;13;13;;0;0;5;2
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Sommersemester;4;28;;;6;2;20;15
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Sommersemester;26;29;;;3;2;14;14
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Wintersemester;0;41;;;15;0;29;26
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Sommersemester;1;41;;;8;0;28;26
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Sommersemester;3;41;;;15;0;22;29
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Wintersemester;3;32;;;3;0;17;21
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Sommersemester;3;30;;;5;0;19;22
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Wintersemester;3;32;;32;9;0;17;22
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Wintersemester;1;34;;;4;0;19;23
+Master;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Unternehmensrecht und Energierecht;Unternehmensrecht und Energierecht;Birkenfeld;Wintersemester;2;27;27;;5;0;17;12
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Sommersemester;3;93;;;8;3;50;58
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Sommersemester;20;236;;;23;5;158;144
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Wintersemester;22;226;;;33;25;163;139
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Sommersemester;20;208;;;17;4;136;124
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Sommersemester;18;163;;;16;2;96;87
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Wintersemester;13;141;;;18;9;86;79
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Sommersemester;11;129;;;12;4;71;73
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Wintersemester;7;114;;114;13;2;60;66
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Wintersemester;17;181;;;23;9;126;103
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltwirtschaft / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschafts- und Umweltrecht;Wirtschafts- und Umweltrecht;Birkenfeld;Wintersemester;2;84;84;;18;5;52;51
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;34;166;;;0;0;104;35
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;39;165;;;26;19;95;30
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;47;168;;;14;7;108;32
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;53;163;;;9;6;102;32
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;56;169;;;29;20;102;35
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;61;166;;;20;11;110;38
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;82;197;;197;48;30;130;43
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;51;171;;;32;23;102;31
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;96;207;;;30;12;146;47
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;102;229;229;;47;37;163;54
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;0;7;7;;2;2;6;0
+Master;Hauptcampus; ;Informatik;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsinformatik - Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Sommersemester;1;29;;;7;0;19;4
+Master;Hauptcampus; ;Informatik;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsinformatik - Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Sommersemester;4;35;;;2;0;20;4
+Master;Hauptcampus; ;Informatik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsinformatik - Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Wintersemester;3;28;;;0;0;9;2
+Master;Hauptcampus; ;Informatik;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsinformatik - Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Sommersemester;2;20;;;0;0;5;1
+Master;Hauptcampus; ;Informatik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsinformatik - Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Wintersemester;1;12;;12;0;0;1;0
+Master;Hauptcampus; ;Informatik;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsinformatik - Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Sommersemester;1;7;;;0;0;0;0
+Master;Hauptcampus; ;Informatik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsinformatik - Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Wintersemester;1;4;4;;0;0;0;0
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;0;3;;;0;0;3;1
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;1;5;;;1;1;5;1
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;1;5;;;0;0;5;1
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;1;7;;;1;1;6;1
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;0;5;;;0;0;3;0
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;0;4;;;0;0;3;0
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;0;5;;5;2;2;4;0
+Bachelor;Hauptcampus;dual;Wirtschaft;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Wintersemester;1;6;;;1;1;5;1
+Bachelor;Hauptcampus;dual;Wirtschaft;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsinformatik;Wirtschaftsinformatik;Trier;Sommersemester;0;6;;;1;0;5;0
+Master;Hauptcampus; ;Informatik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsinformatik-Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Wintersemester;5;36;;;12;0;28;7
+Master;Hauptcampus; ;Informatik;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsinformatik-Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Sommersemester;5;37;;;7;0;30;7
+Master;Hauptcampus; ;Informatik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsinformatik-Informationsmanagement;Wirtschaftsinformatik - Informationsmanagement;Trier;Wintersemester;7;40;;;4;0;27;8
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;5;80;;;2;1;49;10
+Master;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;2;31;;;5;0;25;6
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;5;82;;;20;16;51;8
+Master;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;2;45;;;16;0;29;11
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;4;73;;;1;1;47;7
+Master;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;2;38;;;8;0;33;8
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;3;58;;;2;2;36;7
+Master;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;1;36;;;4;0;31;6
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;4;68;;;17;14;37;8
+Master;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;1;37;;;2;0;17;6
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;5;59;;;0;1;34;9
+Master;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;1;27;;;2;0;10;6
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;8;63;;63;15;13;34;10
+Master;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;2;21;;21;2;0;7;5
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;10;55;;;4;4;31;8
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;5;66;;;14;13;40;7
+Master;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;1;39;;;7;0;32;7
+Master;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;2;23;;;5;0;10;6
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;9;54;54;;14;14;32;11
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;0;2;2;;0;0;1;0
+Master;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;1;18;18;;4;0;9;4
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;0;1;;;0;0;1;1
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;0;1;;;0;0;1;1
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;0;1;;;0;0;1;1
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;0;1;;;0;0;1;0
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;0;2;;;1;0;2;0
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;0;2;;;0;0;2;0
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;0;2;;2;0;0;2;0
+Bachelor;Hauptcampus;dual;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Wintersemester;0;2;;;1;0;1;1
+Bachelor;Hauptcampus;dual;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsingenieurwesen;Wirtschaftsingenieurwesen;Trier;Sommersemester;0;2;;;0;0;2;0
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Sommersemester;8;52;;;3;1;27;17
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Sommersemester;18;107;;;12;4;82;34
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Wintersemester;15;97;;;13;10;67;30
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Sommersemester;17;97;;;11;6;68;28
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Sommersemester;22;75;;;7;5;43;18
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Wintersemester;21;65;;;10;8;34;17
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Sommersemester;15;61;;;12;6;33;14
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Wintersemester;12;58;;58;11;10;31;15
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Wintersemester;20;99;;;19;12;62;28
+Bachelor;Umwelt-Campus Birkenfeld; ;Umweltplanung / Umweltrecht;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsingenieurwesen / Umweltplanung;Wirtschaftsingenieurwesen / Umweltplanung;Birkenfeld;Wintersemester;9;51;51;;7;5;24;17
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2020;Falsch;02.06.2020;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Sommersemester;8;29;;;0;0;14;13
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2020/2021;Falsch;30.11.2020;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Wintersemester;8;25;;;0;0;11;11
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2021;Falsch;02.06.2021;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Sommersemester;6;17;;;0;0;7;8
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2022;Falsch;31.05.2022;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Sommersemester;4;10;;;0;0;5;4
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2022/2023;Falsch;30.11.2022;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Wintersemester;3;8;;;0;0;2;3
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2023;Falsch;31.05.2023;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Sommersemester;3;8;;;0;0;0;3
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Wintersemester;3;8;;8;0;0;0;3
+Bachelor;Hauptcampus; ;Technik;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Sommersemester;3;7;;;0;0;0;3
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2021/2022;Falsch;30.11.2021;;;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Wintersemester;5;13;;;0;0;6;5
+Bachelor;Hauptcampus; ;Technik;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftsingenieurwesen Elektrotechnik;Wirtschaftsingenieurwesen Elektrotechnik;Trier;Wintersemester;4;9;9;;3;2;3;3
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2023/2024;Wahr;30.11.2023;;;Wirtschaftspsychologie;Wirtschaftspsychologie;Trier;Wintersemester;2;37;;37;37;31;37;26
+Bachelor;Hauptcampus; ;Wirtschaft;Sommersemester 2024;Falsch;31.05.2024;;;Wirtschaftspsychologie;Wirtschaftspsychologie;Trier;Sommersemester;0;35;;;0;0;35;26
+Bachelor;Hauptcampus; ;Wirtschaft;Wintersemester 2024/2025;Falsch;02.12.2024;02.12.2024;02.12.2023 00:00:00;Wirtschaftspsychologie;Wirtschaftspsychologie;Trier;Wintersemester;0;71;71;;40;31;71;55
